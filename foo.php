@@ -2,6 +2,6 @@
 
 namespace Bar;
 
-
-
-class Baz {}
+class Baz
+{
+}
