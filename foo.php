@@ -2,4 +2,7 @@
 
 namespace Bar;
 
+
+
+
 class Baz {}
